@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="https://tenor.com/view/coding-gif-18657810" width="100"/>
-</div>
+!(https://github.com/yashkc2025/yashkc2025/blob/main/2022-06-19_10-08-58.png)
 Hi there 👋
 
 <!--
