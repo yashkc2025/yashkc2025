@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I am a First Year College Student from India.
+- I am a First Year student from India pursuing BS Data Science from IIT Madras.
 - I am curious towards Data Science and Programming.
 
 ---
