@@ -34,4 +34,5 @@ Here are some ideas to get you started:
 
 ### :fire: My Stats :
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yashkc2025&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashkc2025&layout=compact&theme=tokynight)]
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashkc2025&layout=compact&theme=tokyonight)
