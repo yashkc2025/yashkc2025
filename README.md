@@ -1,4 +1,4 @@
-<img src="https://github.com/yashkc2025/yashkc2025/blob/main/code.png">
+<img src="https://github.com/yashkc2025/yashkc2025/blob/main/code.png" text-align = center>
 Hi there 👋
 
 <!--
