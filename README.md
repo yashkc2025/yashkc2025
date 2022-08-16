@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### :hammer_and_wrench: My Tech Stack :
 
 <div>
-  <h4>---   Languages    ---</h4>
+  <h4>--- Programming & Scripting ---</h4>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="40"/>&nbsp;
@@ -49,6 +49,9 @@ Here are some ideas to get you started:
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/768px-IntelliJ_IDEA_Icon.svg.png" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/768px-PyCharm_Icon.svg.png" height="40"/>&nbsp;
   
+  <h4>--- OS ---<h4>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" height="33"/>&nbsp;
   
 </div>
 
