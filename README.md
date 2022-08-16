@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
+
 <div>
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="40"/>&nbsp
@@ -30,6 +32,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="40"/>&nbsp
 </div>
 
 ---
