@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - I am curious towards Data Science and Programming.
 
 ---
-
+![](https://komarev.com/ghpvc/?username=yashkc2025&color=ff69b4)
 ### :hammer_and_wrench: My Tech Stack :
 
 <div>
