@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=yashkc2025&color=ff69b4)
 ### :hammer_and_wrench: My Tech Stack :
 
+
 <div>
   <h4>--- Programming & Scripting ---</h4>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="40"/>&nbsp;
@@ -58,11 +59,11 @@ Here are some ideas to get you started:
 ---
 
 ### :fire: My Stats :
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yashkc2025&show_icons=true&theme=tokyonight)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashkc2025&layout=compact&theme=tokyonight)
-
-
-### Let's Connect
-<div class="badge-base LI-profile-badge" data-locale="hi_IN" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="yashkc2025" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/yashkc2025?trk=profile-badge">Yash Kumar</a></div>
-              
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yashkc2025&show_icons=true&theme=merko)&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashkc2025&langs_count=8&theme=merko)
+<div align="center">  
+  <h3>Connect with me!</h3>
+  <a href="https://www.linkedin.com/in/yashkc2025/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" height="40"/></a>&nbsp;
+  <a href="https://www.showwcase.com/yashkc2025"><img src="https://user-images.githubusercontent.com/43927153/185462553-d7877a9e-1e60-4bf2-ad74-726fe8cc8199.png" height="42"/><a>&nbsp;
+  <a href="mailto:yashkc0000@outlook.com"><img src ="https://cdn1.iconfinder.com/data/icons/application-file-formats/128/microsoft-outlook-512.png" height="40"/></a>&nbsp;
+    </div>
