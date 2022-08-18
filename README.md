@@ -61,3 +61,8 @@ Here are some ideas to get you started:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yashkc2025&show_icons=true&theme=tokyonight)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashkc2025&layout=compact&theme=tokyonight)
+
+
+### Let's Connect
+<div class="badge-base LI-profile-badge" data-locale="hi_IN" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="yashkc2025" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/yashkc2025?trk=profile-badge">Yash Kumar</a></div>
+              
