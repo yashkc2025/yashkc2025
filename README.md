@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 <div>
   <h4>--- Programming & Scripting ---</h4>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" height="40"/>&nbsp;
@@ -42,6 +43,7 @@ Here are some ideas to get you started:
   <h4>---  UI/UX  ---</h4>
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height="36"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" height="36"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" height="38"/>&nbsp;
   
   <h4>---  IDE & Text-Editor  ---</h4>
