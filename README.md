@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I am a First Year student🧑‍🎓 from India🇮🇳  pursuing BS Data Science from IIT Madras.
+- I am a Freshman at IIT Madras pursuing BS Data Science.
 - I am curious towards Data Science and Programming.
 
 ---
@@ -44,13 +44,14 @@ Here are some ideas to get you started:
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height="36"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" height="36"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" height="38"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" height="38"/>&nbsp;
   
   <h4>---  IDE & Text-Editor  ---</h4>
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/768px-IntelliJ_IDEA_Icon.svg.png" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/768px-PyCharm_Icon.svg.png" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" height=40/>&nbsp;
   
   <h4>--- OS ---<h4>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" height="40"/>&nbsp;
