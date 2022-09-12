@@ -34,12 +34,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="40"/>&nbsp;
 <!--  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/768px-Bash_Logo_Colored.svg.png" height="40"/>&nbsp; -->
-  
-  <h4>---  Databases  ---</h4>
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" height="40"/>&nbsp;
-  
+
   <h4>---  UI/UX  ---</h4>
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height="36"/>&nbsp;
@@ -53,9 +48,6 @@ Here are some ideas to get you started:
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/768px-PyCharm_Icon.svg.png" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" height=40/>&nbsp;
   
-  <h4>--- OS ---<h4>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" height="33"/>&nbsp;
   
 </div>
 
