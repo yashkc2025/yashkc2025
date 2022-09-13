@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 -->
 - I am a Freshman at IIT Madras pursuing BS Data Science.
 - I am curious towards Data Science and Programming.
+- 🌱 I’m currently learning Flutter & Dart
 
 ---
 ![](https://komarev.com/ghpvc/?username=yashkc2025&color=ff69b4)
