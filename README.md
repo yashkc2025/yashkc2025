@@ -1,5 +1,5 @@
 <img src="https://github.com/yashkc2025/yashkc2025/blob/main/2022-06-19_10-08-58.png">
-Hi there 👋
+Hi there 👋, I am Yash
 
 <!--
 **yashkc2025/yashkc2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I am a Freshman at IIT Madras pursuing BS Data Science.
-- I am curious towards Data Science and Programming.
+<!-- I am a Freshman at IIT Madras pursuing BS Data Science.
+- I am curious towards Data Science and Programming.-->
+
 - 🌱 I’m currently learning Flutter & Dart
 
 ---
@@ -26,15 +27,19 @@ Here are some ideas to get you started:
 ### :hammer_and_wrench: My Tech Stack :
 
 
+|Programming & Scripting |UI/UX |IDE & Text-Editor|
+|-----|--------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="40"/>&nbsp;|<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height="36"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" height="36"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" height="38"/>&nbsp; |<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="40"/>&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/768px-IntelliJ_IDEA_Icon.svg.png" height="40"/>&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/768px-PyCharm_Icon.svg.png" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" height=40/>&nbsp;|
+
+<!--
 <div>
   <h4>--- Programming & Scripting ---</h4>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="40"/>&nbsp;
-<!--  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/768px-Bash_Logo_Colored.svg.png" height="40"/>&nbsp; -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/768px-Bash_Logo_Colored.svg.png" height="40"/>&nbsp; 
 
   <h4>---  UI/UX  ---</h4>
   
@@ -51,7 +56,7 @@ Here are some ideas to get you started:
   
   
 </div>
-
+-->
 ---
 
 ### :fire: My Stats :
