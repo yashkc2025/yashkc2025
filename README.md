@@ -26,11 +26,9 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=yashkc2025&color=ff69b4)
 ### :hammer_and_wrench: My Tech Stack :
 
-
 |Programming & Scripting |UI/UX |IDE & Text-Editor|
-|-----|--------|----------|
+|-----|:--------:|----------:|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="40"/>&nbsp;     <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" height="40"/>&nbsp;     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="40"/>&nbsp;     <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" height="40"/>&nbsp;     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="40"/>&nbsp;     |<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height="36"/>&nbsp;     <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" height="36"/>&nbsp;     <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" height="38"/>&nbsp;      |<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="40"/>&nbsp;     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/768px-IntelliJ_IDEA_Icon.svg.png" height="40"/>&nbsp;     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/768px-PyCharm_Icon.svg.png" height="40"/>&nbsp;     <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" height=40/>&nbsp;     |
-
 <!--
 <div>
   <h4>--- Programming & Scripting ---</h4>
