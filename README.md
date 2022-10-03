@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Flutter & Dart
 
 ---
-![](https://komarev.com/ghpvc/?username=yashkc2025&color=ff69b4)
+
 ### :hammer_and_wrench: My Tech Stack :
 
 |Programming & Scripting |UI/UX |IDE & Text-Editor|
