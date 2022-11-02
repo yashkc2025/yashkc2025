@@ -58,6 +58,8 @@ Here are some ideas to get you started:
 ---
 
 ### :fire: My Stats :
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yashkc2025&show_icons=true&theme=merko)&nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashkc2025&layout=compact&theme=merko)
 
