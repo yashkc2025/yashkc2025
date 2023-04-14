@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 <!-- [GitHub stats](https://github-readme-stats.vercel.app/api?username=yashkc2025)&nbsp;
 [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashkc2025&layout=compact&theme=merko) -->
  
-<div align="center">  
+<div align="center"> 
   <h3>Connect with me!</h3>
   <a href="https://www.linkedin.com/in/yashkc2025/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" height="40"/></a>&nbsp;
   <a href="https://www.showwcase.com/yashkc2025"><img src="https://user-images.githubusercontent.com/43927153/185462553-d7877a9e-1e60-4bf2-ad74-726fe8cc8199.png" height="42"/><a>&nbsp;
