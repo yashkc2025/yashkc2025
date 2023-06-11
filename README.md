@@ -59,10 +59,6 @@ Here are some ideas to get you started:
 <!-- 
 ### :fire: My Stats :
 -->
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashkc2025&show_icons=true&theme=merko&count_private=true)
-<!-- [GitHub stats](https://github-readme-stats.vercel.app/api?username=yashkc2025)&nbsp;
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashkc2025&layout=compact&theme=merko) -->
- 
 <div align="center"> 
   <h3>Connect with me!</h3>
   <a href="https://www.linkedin.com/in/yashkc2025/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" height="40"/></a>&nbsp;
